@@ -1,0 +1,4 @@
+services:
+#    dreadlabs_kunstmaan_config.example:
+#        class: DreadLabs\KunstmaanConfigBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
